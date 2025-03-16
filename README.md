@@ -1,4 +1,4 @@
-### **Bank Marketing Classification Model 🏦📊**  
+# **Bank Marketing Classification Model 🏦📊**  
 
 ## **Overview**  
 This project builds a **Bank Marketing Classification Model** to predict whether a customer will subscribe to a bank term deposit. The goal is to help banks and financial institutions identify potential customers and improve marketing strategies.  
