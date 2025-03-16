@@ -60,7 +60,3 @@ The models are evaluated using the following metrics:
 
 Feel free to contribute by optimizing hyperparameters, testing additional models, or improving feature selection! 😊  
 
-## **License**  
-
-This project is open-source under the **MIT License**.
-
